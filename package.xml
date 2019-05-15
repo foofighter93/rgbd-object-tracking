@@ -4,9 +4,9 @@
   <version>0.0.0</version>
   <description>The objtrack package</description>
 
-  <maintainer email="zsombi@todo.todo">zsombi</maintainer>
+  <maintainer email="zsombor.petho@gmail.com">zsombi </maintainer>
 
-  <license>TODO</license>
+  <license> </license>
 
   <buildtool_depend>catkin</buildtool_depend>
 
@@ -31,7 +31,6 @@
   <exec_depend>libpcl-all</exec_depend>
   
  
-
   <export>
 
   </export>
